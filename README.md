@@ -35,7 +35,7 @@ Before running the application, ensure you have the following dependencies insta
 
 1. Clone the repository:
 ```sh
-git clone <repository-url>
+git clone https://github.com/shivahNo1/Cinema-Ticket-booking-System.git
 ```
 
 2. Install the dependencies:
