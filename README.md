@@ -9,7 +9,7 @@ Welcome to Guvi Cinemas, a streamlined movie ticket booking system built with St
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
