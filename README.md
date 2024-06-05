@@ -34,5 +34,50 @@ Before running the application, ensure you have the following dependencies insta
 ## Installation
 
 1. Clone the repository:
+```sh
+git clone <repository-url>
+```
+
+2. Install the dependencies:
+```sh
+pip install -r requirements.txt
+```
+
+3. Run the application:
+ ```sh
+streamlit run ticket_booking.py
+ ```
+
+## Usage
+
+1. Register as a new user or log in with existing credentials.
+2. Browse the list of available movies and select your preferred movie.
+3. Choose a showtime and enter the number of tickets you want to book.
+4. Confirm the booking and complete the payment process.
+5. Upon successful booking, a QR code will be generated for your tickets.
+
+## Screenshots
+
+![Login Page](screenshots/login.png)
+*Login Page*
+
+![Movie Selection](screenshots/movie_selection.png)
+*Movie Selection*
+
+![Ticket Booking](screenshots/ticket_booking.png)
+*Ticket Booking*
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug fixes, or feature enhancements, feel free to submit a pull request.
+
+
+
+
+
+
+
+
+
 
 
