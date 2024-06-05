@@ -58,14 +58,16 @@ streamlit run ticket_booking.py
 
 ## Screenshots
 
-![Login Page](screenshots/login.png)
-*Login Page*
+[Login page](https://github.com/shivahNo1/Cinema-Ticket-booking-System/assets/171788487/e965ef5e-04c3-4f67-b736-5391cee75a6a)
 
-![Movie Selection](screenshots/movie_selection.png)
-*Movie Selection*
+[Register Page](https://github.com/shivahNo1/Cinema-Ticket-booking-System/assets/171788487/d2966c39-c1fb-4d6b-9c73-73d5eb323258)
 
-![Ticket Booking](screenshots/ticket_booking.png)
-*Ticket Booking*
+[Movies display page](https://github.com/shivahNo1/Cinema-Ticket-booking-System/assets/171788487/2d9b9f4c-ed9f-4636-828b-05f194bb2f17)
+
+[Show selection page](https://github.com/shivahNo1/Cinema-Ticket-booking-System/assets/171788487/3a1e1031-4b54-4280-88c0-d83cf0e733a6)
+
+[Ticket and QR code generation](https://github.com/shivahNo1/Cinema-Ticket-booking-System/assets/171788487/293164fa-d87e-4101-983e-98b625cb4274)
+
 
 ## Contributing
 
